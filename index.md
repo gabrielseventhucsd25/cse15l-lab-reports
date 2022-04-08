@@ -15,7 +15,7 @@ _hello!_
 
 [links][1]
 welcome
-[1]:(https://en.wikipedia.org/wiki/Toilet_paper_orientation).
+[1]: https://en.wikipedia.org/wiki/Toilet_paper_orientation
 
 
 ![super small image](https://cdn.discordapp.com/attachments/824842010808287262/951294438339141652/iu.png).
