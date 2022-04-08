@@ -13,7 +13,9 @@ _hello!_
 6. well 
 7. :D
 
-[here is a random link](https://en.wikipedia.org/wiki/Toilet_paper_orientation).
+[links][1][2]
+[1](https://en.wikipedia.org/wiki/Toilet_paper_orientation).
+[2](github.com).
 
 ![super small image](https://cdn.discordapp.com/attachments/824842010808287262/951294438339141652/iu.png).
 
