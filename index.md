@@ -15,7 +15,7 @@ _hello!_
 
 [here is a random link](https://en.wikipedia.org/wiki/Toilet_paper_orientation).
 
-![a cool image](https://media.discordapp.net/attachments/516504307902971904/959542132073459762/E3EC67E4-0490-435F-A5A3-B640E64FC081.gif).
+![a cool image](https://cdn.discordapp.com/attachments/920579405775011934/954577974718500894/Screenshot_20220222-193818.png).
 
 > uhhhh O_o
 
