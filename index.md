@@ -13,8 +13,9 @@ _hello!_
 6. well 
 7. :D
 
-[links][1]
-welcome
+[random link][1]
+
+
 [1]: https://en.wikipedia.org/wiki/Toilet_paper_orientation
 
 
