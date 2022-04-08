@@ -16,7 +16,7 @@ _hello!_
 [links][2]
 
 [1]:(https://en.wikipedia.org/wiki/Toilet_paper_orientation).
-[2]:(github.com)
+[2]:(https://commonmark.org/help/).
 
 ![super small image](https://cdn.discordapp.com/attachments/824842010808287262/951294438339141652/iu.png).
 
