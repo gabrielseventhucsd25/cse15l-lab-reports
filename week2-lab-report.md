@@ -47,4 +47,21 @@ You can set up an SSH Key using the "ssh-keygen" command in order to not have to
 As you can see, no password needed!
 
 ## Optimization for Moving Files
-I have come up with a fast way to move a file using scp that will not take much effort from you. 
+
+I have come up with a fast way to move a file using scp that will not take much effort from you, and this will be done with a .java file. Before you run these steps, make sure you have the following (in order):
+- Have a terminal on VSCode for your client and another terminal logged into your server
+- On your client terminal, copy-paste this (replace the appropriate terms and don't forget the colon). DO NOT PRESS ENTER YET.
+> scp *javafile* *server-account-name*:
+- On your server terminal, type this (include the space at the end) and press enter:
+> java 
+- On your server terminal, type this (include space at the end). DO NOT PRESS ENTER YET.
+> javac 
+
+Here are the steps: 
+1. Press enter on your client terminal.
+2. Go to server terminal and type "W" and press tab and then enter
+3. On server terminal, press up-arrow until you come across "java " and then type "W", press tab, and then press enter.
+
+![image](images/speedrun.png)
+
+Above is the fastest time I could do this. 
