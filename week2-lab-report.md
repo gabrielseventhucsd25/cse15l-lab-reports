@@ -12,7 +12,7 @@
 This is a tutorial for incoming 15L students. For reference, all of these steps were done under a *Mac*, which has an OS based on UNIX. For Windows users, this **may not** be the most helpful guide as there are different things you have to install as well as different commands to run.
 
 ## Installing VSCode
-In this class, we will use Visual Studio Code (or just VSCode). [Clicking on this sentence will take you to where you can download it.](code.visualstudio.com/#alt-downloads) Since I have a Mac with an M1 chip, I chose the Apple Silicon installer. Below is my VSCode opened on a new window, which should look similar to yours after installation.
+In this class, we will use Visual Studio Code (or just VSCode). [Clicking on this sentence will take you to where you can download it.](https://code.visualstudio.com/#alt-downloads) Since I have a Mac with an M1 chip, I chose the Apple Silicon installer. Below is my VSCode opened on a new window, which should look similar to yours after installation.
 
 ![image](images/vscodeopened.png)
 
