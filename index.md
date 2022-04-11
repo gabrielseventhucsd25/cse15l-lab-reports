@@ -1,4 +1,6 @@
-# my markdown file
+# my index markdown file
+
+[Week 2 Lab Report](https://gabrielseventhucsd25.github.io/cse15l-lab-reports/week2-lab-report)
 
 ## intro
 **Mic check mic check**
