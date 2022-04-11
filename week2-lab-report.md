@@ -1,11 +1,11 @@
 # Week 2 Lab Report
-1. Introduction
-2. Installing VSCode
-3. Remotely connecting to your account
-4. Testing out UNIX commands
-5. Using scp to move files from client to server
-6. Setting up SSH Key
-7. Optimization for Moving Files
+1. [Introduction](#introduction)
+2. [Installing VSCode](#installing-vscode)
+3. [Remotely connecting to your account](#remotely-connecting-to-your-account)
+4. [Testing out UNIX commands](#testing-out-unix-commands)
+5. [Using scp to move files from client to server](#using-scp-to-move-files-from-client-to-server)
+6. [Setting up SSH Key](#setting-up-ssh-key)
+7. [Optimization for Moving Files](#optimization-for-moving-files)
 
 
 ## Introduction
