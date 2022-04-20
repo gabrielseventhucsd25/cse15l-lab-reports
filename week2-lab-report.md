@@ -18,7 +18,9 @@ In this class, we will use Visual Studio Code (or just VSCode). [Clicking on thi
 
 ## **Remotely Connecting to Your Server**
 After doing the appropriate steps to get your course specific account, you can now use the SSH protocol to connect to the server associated with it. SSH came pre-installed on my machine, so all I had to do was type in the terminal (which can be accessed through VSCode) via this command: 
-> ssh **my-account-name-here**
+```
+ ssh **my-account-name-here**
+ ```
 
 After typing in my password when prompted, I was able to connect.
 
