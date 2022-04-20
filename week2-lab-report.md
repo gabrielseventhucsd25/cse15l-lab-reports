@@ -48,20 +48,11 @@ As you can see, no password needed!
 
 ## **Optimization for Moving Files**
 
-I have come up with a fast way to move a file using scp that will not take much effort from you, and this will be done with a .java file. Before you run these steps, make sure you have the following (in order):
-- Have a terminal on VSCode for your client and another terminal logged into your server
-- On your client terminal, copy-paste this (replace the appropriate terms and don't forget the colon). DO NOT PRESS ENTER YET.
-> scp *javafile* *server-account-name*:
-- On your server terminal, type this (include the space at the end) and press enter:
-> java 
-- On your server terminal, type this (include space at the end). DO NOT PRESS ENTER YET.
-> javac 
+I have come up with a fast way to move a file using scp that will not take much effort from you, and this will be done with a .java file. All you have to do in this situation is run one line!
+This line is:
+``` 
+scp <javafilename> <servername>:~/; ssh <servernamehere> "javac <javafilename>; java <classname>"
+```
+This one line will copy the java file to the server, compile the file in the server, and run it in the server!
 
-Here are the steps: 
-1. Press enter on your client terminal.
-2. Go to server terminal and type "W" and press tab and then enter
-3. On server terminal, press up-arrow until you come across "java " and then type "W", press tab, and then press enter.
-
-![image](images/speedrun.png)
-
-Above is the fastest time I could do this. 
+![image](images/sshoptimize.png)
