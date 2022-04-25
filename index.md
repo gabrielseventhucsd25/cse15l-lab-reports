@@ -2,6 +2,8 @@
 
 [Week 2 Lab Report](https://gabrielseventhucsd25.github.io/cse15l-lab-reports/week2-lab-report)
 
+[Week 4 Lab Report](https://gabrielseventhucsd25.github.io/cse15l-lab-reports/week4-lab-report)
+
 ## intro
 **Mic check mic check**
 
