@@ -1,8 +1,13 @@
 # my index markdown file
 
+# Lab Reports
 [Week 2 Lab Report](https://gabrielseventhucsd25.github.io/cse15l-lab-reports/week2-lab-report)
 
 [Week 4 Lab Report](https://gabrielseventhucsd25.github.io/cse15l-lab-reports/week4-lab-report)
+
+
+# The rest of this .md file was for the lab trying out all basic syntax of Markdown.
+
 
 ## intro
 **Mic check mic check**
