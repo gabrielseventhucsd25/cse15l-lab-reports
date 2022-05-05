@@ -27,4 +27,12 @@ I figured out that there were some characters in the URL that I did not account 
 The input of the Wikipedia URL contained characters, such as "-" and "_", that the code did not account for. Thus, there was a bug in the code that caused parts of the URL at and before those unaccounted for characters showed up to not print at the end, as shown by just printing some of the URL but most. 
 
 ## Bug 3 and Code Change
-The symptom shown to me was 
+The symptom shown to me was the output for [test-file.md](https://github.com/gabrielseventhucsd25/markdown-parser/blob/main/test-file.md), which incorrectly had an extra ")" for both URLs. 
+![image](images-labreport2/symptom3.png)
+
+I noticed the bug was my incorrect use of Java's lastIndexOf. I thought that it started index the string backwards from the end of the string to the index, but it actually indexes back starting from that index. The code change below shows the fix:
+![image](images-labreport2/lastfix.png)
+
+To clarify, endLine is the index of the end of a line in the .md file.
+
+The failure-inducing input in the .md file was the last parenthesis in each URL since I was trying to account for the set of parenthesis not in the URL but did it incorrectly. My attempt in accounting for this led to the bug of an incorrect implementation of lastIndexOf, which caused an extra end parenthesis to be printed in both URLs in test-file.md. 
