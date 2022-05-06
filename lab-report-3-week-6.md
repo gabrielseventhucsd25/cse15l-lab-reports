@@ -55,6 +55,7 @@ Below is me displaying the files copied on my server, compiling the files, and t
 
 You can also just use one command to do all of this:
 ```
-sample code 
+scp -r *.java *.md lib/ <username/alias-here>:<path-here>; ssh <username/alias-here> "cd <path-here>; /software/CSE/oracle-java-17/jdk-17.0.1/bin/javac <java-file-here>; /software/CSE/oracle-java-17/jdk-17.0.1/bin/java <java-class-file-here> <args-here>
 ```
 Here is me using it as shown below:
+![image](images-labreport3/onelinecommand.png)
