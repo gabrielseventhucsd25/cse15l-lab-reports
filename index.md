@@ -7,6 +7,8 @@
 
 [Lab Report 3 - Week 6](https://gabrielseventhucsd25.github.io/cse15l-lab-reports/lab-report-3-week-6)
 
+[Lab Report 4 - Week 8](https://gabrielseventhucsd25.github.io/cse15l-lab-reports/lab-report-4-week-8)
+
 
 # The rest of this .md file was for the lab trying out all basic syntax of Markdown.
 
